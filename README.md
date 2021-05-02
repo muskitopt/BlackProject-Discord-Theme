@@ -5,7 +5,7 @@
 
 [![Steam Group](https://img.shields.io/badge/Steam-group-yellowgreen.svg)](https://steamcommunity.com/groups/BlackProjectCommunity)
 
-# Program preview: 
+# BlackProject Theme preview: 
 
 ![Preview](https://i.imgur.com/WSgTU84.png)
 
